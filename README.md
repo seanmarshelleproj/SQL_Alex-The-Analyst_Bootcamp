@@ -9,11 +9,9 @@ This repository showcases my SQL projects from the Alex The Analyst Bootcamp, co
 
 ## 📺: **Scereen Shoot**
 <p align="center" width="80%">
-    <img width="50%" src="https://raw.githubusercontent.com/seanmarshelleproj/SQL_Alex-The-Analyst_Bootcamp/refs/heads/main/Screenshot%202025-05-11%20155104.png">
+    <img width="50%" src="https://raw.githubusercontent.com/seanmarshelleproj/SQL_Alex-The-Analyst_Bootcamp/refs/heads/main/Screenshot%202025-05-11%20184833.png">
 </p>
-<p align="center" width="80%">
-    <img width="50%" src="https://raw.githubusercontent.com/seanmarshelleproj/SQL_Alex-The-Analyst_Bootcamp/refs/heads/main/Screenshot%202025-05-11%20155104.png">
-</p>
+
 
 ## 👱: **Contact**
 <p align="justify">
